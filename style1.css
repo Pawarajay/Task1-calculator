@@ -1,0 +1,38 @@
+<style>@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Noto+Serif+Bengali:wght@100&family=Poppins:wght@300&display=swap');
+
+</style>html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Noto Serif Bengali', serif;
+  font-family: 'Poppins', sans-serif;
+}
+
+.body {
+  background-color: indigo;
+}
+
+.button {
+  padding: 20px;
+  margin: 0 3px;
+  width: 64px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.row {
+  margin: 8px 0;
+  width: 83vw;
+  align-items: center;
+  justify-content: center;
+}
+
+.row input {
+  width: 291px;
+  font-size: 20px;
+  margin: 0;
+  padding: 10px 0;
+  border: 2px solid black;
+  border-radius: 5px;
+}
